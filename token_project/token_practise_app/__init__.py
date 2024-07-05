@@ -1,0 +1,1 @@
+default_app_config = 'token_practise_app.apps.TokenPractiseAppConfig'
